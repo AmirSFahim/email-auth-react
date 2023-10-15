@@ -28,7 +28,7 @@ const LogInn = () => {
 
 
     }
-    const handleForgetpass =e =>{
+    const handleForgetpass = () =>{
         console.log('password forget')
     }
     return (
